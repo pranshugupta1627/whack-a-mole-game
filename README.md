@@ -15,6 +15,6 @@ where you need to move your face to play and be the top scorer.
 
 <h2>Sounds exciting. It surely is!</h2>
 
-Try out yourself, Game is live at : https://sahilchopra001.github.io/whack-a-mole/
+Try out yourself, Game is live at : 
 
 # Thank You!
